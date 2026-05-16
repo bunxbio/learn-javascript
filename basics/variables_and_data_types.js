@@ -1,8 +1,8 @@
 // VARIABLES
-let firstName = 'Bio';
-let lastName = 'Gumilang';
+let firstName = 'John';
+let lastName = 'Doe';
 
-const DATE_OF_BIRTH = '1997.03.13';
+const DATE_OF_BIRTH = '2005.09.18';
 
 
 // DATA TYPES
